@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmrajibfaysal
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on fun beginner projects.
 
 
