@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kmrajibfaysal
 - 👀 I’m interested in Web Development
 - 💪I have completed learning Javascript basics and modern syntax.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning ReactJs.
 - 💞️ I’m looking to collaborate on fun beginner to advanced projects.
 
 
