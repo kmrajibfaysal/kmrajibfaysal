@@ -33,7 +33,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kmrajibfaysal&theme=tokyonight&show_icons=true" />
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=kmrajibfaysal&theme=github" />
 </div>
-<div align="center">
-  <img width="15%" src="https://visitor-badge.glitch.me/badge?page_id=kmrajibfaysal" />
-</div>
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kmrajibfaysal&label=Watchlist&color=c01c28&style=flat" alt="kmrajibfaysal" /> </p>
