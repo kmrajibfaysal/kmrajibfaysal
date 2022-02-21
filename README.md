@@ -40,7 +40,7 @@
 
 <!--START_SECTION:activity-->
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 
 <!--START_SECTION:waka-->
 ```text
