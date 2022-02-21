@@ -40,6 +40,8 @@
 
 <!--START_SECTION:activity-->
 
+📊 **this week i spent my time on:**
+
 <!--START_SECTION:waka-->
 ```text
 JavaScript   25 hrs 3 mins   ██████████████████▒░░░░░░   73.25 % 
