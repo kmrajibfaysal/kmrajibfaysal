@@ -26,9 +26,10 @@
 
 <!--END_SECTION:activity-->
 
+### GitHub Stats 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmrajibfaysal&show_icons=true&locale=en&layout=compact" alt="kmrajibfaysal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kmrajibfaysal&" alt="kmrajibfaysal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kmrajibfaysal&show_icons=true&locale=en" alt="kmrajibfaysal" /></p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kmrajibfaysal&theme=tokyonight&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kmrajibfaysal&theme=tokyonight&show_icons=true" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=kmrajibfaysal&theme=github" />
+</div>
