@@ -40,6 +40,8 @@
 
 <!--START_SECTION:activity-->
 
+<!--END_SECTION:activity-->
+
 📊 **This week i spent my time on:**
 
 <!--START_SECTION:waka-->
