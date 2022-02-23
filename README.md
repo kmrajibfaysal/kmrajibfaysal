@@ -9,7 +9,7 @@
   <td valign="center">
 - 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. <br/>
 - 🌱 I am currently learning **React** and also interested in **Back end Devlopmet**.<br/>
-- 🎯 My Goal is to Contribute to as many **open source project** as possible to make me stand out!<br/>
+- 🎯 My Goal is to Contribute to as many **open source project** as possible to stand out!<br/>
 - ✨ I love to create different types of **projects with excellent functionality**.<br/>
   </td>
 <td >
