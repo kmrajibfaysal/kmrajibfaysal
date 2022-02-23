@@ -2,14 +2,14 @@
 
 ![banner](./wall.png)
 
-
 - 🔭 I'm currently working on Animation Nation Ltd.
-- 🌱 I’m currently learning React. 
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love travelling! ✈️
 
 ### :dizzy: Connect on Networks
+
 <div align="center">
 
 <a href="https://twitter.com/kmrajibfaysal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmrajibfaysal1" height="30" width="40" /></a>
@@ -20,7 +20,8 @@
 
 </div>
 
-**Languages and tools:**  
+**Languages and tools:**
+
 <div align="center">
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -33,27 +34,25 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  
+
 </div>
 
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 📊 **This week i spent my time on:**
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
-### GitHub Stats 
+
+### GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kmrajibfaysal&theme=tokyonight&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kmrajibfaysal&theme=tokyonight&show_icons=true" />
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=kmrajibfaysal&theme=github" />
 </div>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kmrajibfaysal&label=Watchlist&color=c01c28&style=flat" alt="kmrajibfaysal" /> </p>
