@@ -7,10 +7,11 @@
 <table>
 <tr>
   <td valign="center">
-## 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. </h6>
-## 🌱 I am currently learning **Java** and also interested in **Web Development**. </h6>
-## 🎯 My Goal is to Contribute to as many **open source project** as possible.</h6>
-## ✨ I love to create different types of **contents**.</h6>
+- 🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. <br/>
+- 🌱 I am currently learning **React** and also interested in **Back end Devlopmet**.<br/>
+- 🎯 My Goal is to Contribute to as many **open source project** as possible to make me stand out!<br/>
+- ✨ I love to create different types of **projects with excellent functionality**.<br/>
+  </td>
 <td >
     <a href="https://app.daily.dev/kmrajibfaysal"><img src="https://api.daily.dev/devcards/07f66b31519d4217ae192289cbdab363.png?r=9ga" width="300" alt="K. M. Rajib Faysal's Dev Card"/></a>
   </td>
