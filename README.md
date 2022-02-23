@@ -1,12 +1,26 @@
 <!-- <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1> -->
 
-![banner](./wall.png)
+<!-- ![banner](./wall.png) -->
 
-- 🔭 I'm currently working on Animation Nation Ltd.
-- 🌱 I’m currently learning React.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love travelling! ✈️
+# <h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm K. M. Rajib Faysal <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> </h1>
+
+<table>
+<tr>
+  <td valign="center">
+<h3>🎓 I am currently pursuing my **Bachelor's in Computer Science Engineering**. </h3>
+<h3>🌱 I am currently learning **Java** and also interested in **Web Development**. </h3>
+<h3>🎯 My Goal is to Contribute to as many **open source project** as possible.</h3>
+<h3>✨ I love to create different types of **contents**.</h3>
+<td >
+# this is my daily.dev card, you can edit this accordingly
+    <a href="https://app.daily.dev/kmrajibfaysal"><img src="https://api.daily.dev/devcards/07f66b31519d4217ae192289cbdab363.png?r=9ga" width="400" alt="K. M. Rajib Faysal's Dev Card"/></a>
+  </td>
+
+</tr>
+</table>
+
+### Open Source Gallery :dizzy: 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kmrajibfaysal&theme=dracula&hide_border=true)
 
 ### :dizzy: Connect on Networks
 
@@ -52,7 +66,7 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kmrajibfaysal&theme=tokyonight&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kmrajibfaysal&theme=tokyonight&show_icons=true" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=kmrajibfaysal&theme=github" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmrajibfaysal&show_icons=true&theme=tokyonight&layout=compact&show_icons=true" alt="#your-username" />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kmrajibfaysal&label=Watchlist&color=c01c28&style=flat" alt="kmrajibfaysal" /> </p>
