@@ -12,8 +12,7 @@
 <h6>🎯 My Goal is to Contribute to as many **open source project** as possible.</h6>
 <h6>✨ I love to create different types of **contents**.</h6>
 <td >
-# this is my daily.dev card, you can edit this accordingly
-    <a href="https://app.daily.dev/kmrajibfaysal"><img src="https://api.daily.dev/devcards/07f66b31519d4217ae192289cbdab363.png?r=9ga" width="400" alt="K. M. Rajib Faysal's Dev Card"/></a>
+    <a href="https://app.daily.dev/kmrajibfaysal"><img src="https://api.daily.dev/devcards/07f66b31519d4217ae192289cbdab363.png?r=9ga" width="300" alt="K. M. Rajib Faysal's Dev Card"/></a>
   </td>
 
 </tr>
