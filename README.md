@@ -53,6 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
+1. 🔱 Forked [kmrajibfaysal/progmamun](https://github.com/kmrajibfaysal/progmamun) from [progmamun/progmamun](https://github.com/progmamun/progmamun)
+2. 🔱 Forked [kmrajibfaysal/recent-activity](https://github.com/kmrajibfaysal/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+3. 🔱 Forked [kmrajibfaysal/codeSTACKr](https://github.com/kmrajibfaysal/codeSTACKr) from [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+4. 🔱 Forked [kmrajibfaysal/abhisheknaiidu](https://github.com/kmrajibfaysal/abhisheknaiidu) from [abhisheknaiidu/abhisheknaiidu](https://github.com/abhisheknaiidu/abhisheknaiidu)
+5. 🔱 Forked [kmrajibfaysal/awesome-github-profile-readme](https://github.com/kmrajibfaysal/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
