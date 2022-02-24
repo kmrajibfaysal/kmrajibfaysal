@@ -52,9 +52,8 @@
 </div>
 
 ### :zap: Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
 
