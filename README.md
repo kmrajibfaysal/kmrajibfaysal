@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/js-object-concept](https://github.com/kmrajibfaysal/js-object-concept)
-2. 🔱 Forked [kmrajibfaysal/Restaurent-Using-Javascript-API](https://github.com/kmrajibfaysal/Restaurent-Using-Javascript-API) from [devriazul/Restaurent-Using-Javascript-API](https://github.com/devriazul/Restaurent-Using-Javascript-API)
-3. 🔱 Forked [kmrajibfaysal/honda-cbr](https://github.com/kmrajibfaysal/honda-cbr) from [ProgrammingHero1/honda-cbr](https://github.com/ProgrammingHero1/honda-cbr)
-4. 🔱 Forked [kmrajibfaysal/progmamun](https://github.com/kmrajibfaysal/progmamun) from [progmamun/progmamun](https://github.com/progmamun/progmamun)
-5. 🔱 Forked [kmrajibfaysal/recent-activity](https://github.com/kmrajibfaysal/recent-activity) from [Readme-Workflows/recent-activity](https://github.com/Readme-Workflows/recent-activity)
+1. 🔱 Forked [kmrajibfaysal/sports-db-practice](https://github.com/kmrajibfaysal/sports-db-practice) from [gias-uddin-swe/sports-db-practice](https://github.com/gias-uddin-swe/sports-db-practice)
+2. 📔 Created new repository [kmrajibfaysal/js-object-concept](https://github.com/kmrajibfaysal/js-object-concept)
+3. 🔱 Forked [kmrajibfaysal/Restaurent-Using-Javascript-API](https://github.com/kmrajibfaysal/Restaurent-Using-Javascript-API) from [devriazul/Restaurent-Using-Javascript-API](https://github.com/devriazul/Restaurent-Using-Javascript-API)
+4. 🔱 Forked [kmrajibfaysal/honda-cbr](https://github.com/kmrajibfaysal/honda-cbr) from [ProgrammingHero1/honda-cbr](https://github.com/ProgrammingHero1/honda-cbr)
+5. 🔱 Forked [kmrajibfaysal/progmamun](https://github.com/kmrajibfaysal/progmamun) from [progmamun/progmamun](https://github.com/progmamun/progmamun)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
