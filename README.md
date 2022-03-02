@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [kmrajibfaysal/temperature-hot](https://github.com/kmrajibfaysal/temperature-hot) from [ProgrammingHero1/temperature-hot](https://github.com/ProgrammingHero1/temperature-hot)
-2. 📔 Created new repository [kmrajibfaysal/weather-application](https://github.com/kmrajibfaysal/weather-application)
-3. 🔱 Forked [kmrajibfaysal/phone-hunter](https://github.com/kmrajibfaysal/phone-hunter) from [ProgrammingHero1/phone-hunter](https://github.com/ProgrammingHero1/phone-hunter)
-4. 🔱 Forked [kmrajibfaysal/weather-app](https://github.com/kmrajibfaysal/weather-app) from [munna-aziz-hridoy/weather-app](https://github.com/munna-aziz-hridoy/weather-app)
-5. ⭐ Starred [munna-aziz-hridoy/weather-app](https://github.com/munna-aziz-hridoy/weather-app)
+1. ⭐ Starred [kmrajibfaysal/weather-application](https://github.com/kmrajibfaysal/weather-application)
+2. ⭐ Starred [ProgrammingHero1/rest-countries-recap](https://github.com/ProgrammingHero1/rest-countries-recap)
+3. 🔱 Forked [kmrajibfaysal/temperature-hot](https://github.com/kmrajibfaysal/temperature-hot) from [ProgrammingHero1/temperature-hot](https://github.com/ProgrammingHero1/temperature-hot)
+4. 📔 Created new repository [kmrajibfaysal/weather-application](https://github.com/kmrajibfaysal/weather-application)
+5. 🔱 Forked [kmrajibfaysal/phone-hunter](https://github.com/kmrajibfaysal/phone-hunter) from [ProgrammingHero1/phone-hunter](https://github.com/ProgrammingHero1/phone-hunter)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
