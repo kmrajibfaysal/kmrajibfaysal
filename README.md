@@ -60,6 +60,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
+#1
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
