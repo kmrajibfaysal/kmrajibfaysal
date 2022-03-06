@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [facebook/react](https://github.com/facebook/react)
-2. 📔 Created new repository [kmrajibfaysal/react-stacklearner-practice](https://github.com/kmrajibfaysal/react-stacklearner-practice)
-3. ⭐ Starred [kmrajibfaysal/weather-application](https://github.com/kmrajibfaysal/weather-application)
-4. ⭐ Starred [ProgrammingHero1/rest-countries-recap](https://github.com/ProgrammingHero1/rest-countries-recap)
-5. 🔱 Forked [kmrajibfaysal/temperature-hot](https://github.com/kmrajibfaysal/temperature-hot) from [ProgrammingHero1/temperature-hot](https://github.com/ProgrammingHero1/temperature-hot)
+1. 💪 Opened PR [#2](https://github.com/ProgrammingHero1/salary-app/pull/2) in [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
+2. 🔱 Forked [kmrajibfaysal/salary-app](https://github.com/kmrajibfaysal/salary-app) from [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
+3. ⭐ Starred [facebook/react](https://github.com/facebook/react)
+4. 📔 Created new repository [kmrajibfaysal/react-stacklearner-practice](https://github.com/kmrajibfaysal/react-stacklearner-practice)
+5. ⭐ Starred [kmrajibfaysal/weather-application](https://github.com/kmrajibfaysal/weather-application)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
