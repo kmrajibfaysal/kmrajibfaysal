@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#2](https://github.com/ProgrammingHero1/salary-app/pull/2) in [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
-2. 🔱 Forked [kmrajibfaysal/salary-app](https://github.com/kmrajibfaysal/salary-app) from [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
-3. ⭐ Starred [facebook/react](https://github.com/facebook/react)
-4. 📔 Created new repository [kmrajibfaysal/react-stacklearner-practice](https://github.com/kmrajibfaysal/react-stacklearner-practice)
-5. ⭐ Starred [kmrajibfaysal/weather-application](https://github.com/kmrajibfaysal/weather-application)
+1. 📔 Created new repository [kmrajibfaysal/javascript-concept-recap](https://github.com/kmrajibfaysal/javascript-concept-recap)
+2. 💪 Opened PR [#2](https://github.com/ProgrammingHero1/salary-app/pull/2) in [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
+3. 🔱 Forked [kmrajibfaysal/salary-app](https://github.com/kmrajibfaysal/salary-app) from [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
+4. ⭐ Starred [facebook/react](https://github.com/facebook/react)
+5. 📔 Created new repository [kmrajibfaysal/react-stacklearner-practice](https://github.com/kmrajibfaysal/react-stacklearner-practice)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
