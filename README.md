@@ -65,7 +65,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### GitHub Stats
+<img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kmrajibfaysal&theme=tokyonight&show_icons=true" />
