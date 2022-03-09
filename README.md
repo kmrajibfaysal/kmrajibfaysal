@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [kmrajibfaysal/issue-tracker](https://github.com/kmrajibfaysal/issue-tracker) from [ProgrammingHero1/issue-tracker](https://github.com/ProgrammingHero1/issue-tracker)
-2. 📔 Created new repository [kmrajibfaysal/javascript-concept-recap](https://github.com/kmrajibfaysal/javascript-concept-recap)
-3. 💪 Opened PR [#2](https://github.com/ProgrammingHero1/salary-app/pull/2) in [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
-4. 🔱 Forked [kmrajibfaysal/salary-app](https://github.com/kmrajibfaysal/salary-app) from [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
-5. ⭐ Starred [facebook/react](https://github.com/facebook/react)
+1. 🔱 Forked [kmrajibfaysal/ranga-store](https://github.com/kmrajibfaysal/ranga-store) from [ProgrammingHero1/ranga-store](https://github.com/ProgrammingHero1/ranga-store)
+2. 🔱 Forked [kmrajibfaysal/issue-tracker](https://github.com/kmrajibfaysal/issue-tracker) from [ProgrammingHero1/issue-tracker](https://github.com/ProgrammingHero1/issue-tracker)
+3. 📔 Created new repository [kmrajibfaysal/javascript-concept-recap](https://github.com/kmrajibfaysal/javascript-concept-recap)
+4. 💪 Opened PR [#2](https://github.com/ProgrammingHero1/salary-app/pull/2) in [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
+5. 🔱 Forked [kmrajibfaysal/salary-app](https://github.com/kmrajibfaysal/salary-app) from [ProgrammingHero1/salary-app](https://github.com/ProgrammingHero1/salary-app)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
