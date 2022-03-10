@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [kmrajibfaysal/book-bhandar-with-error](https://github.com/kmrajibfaysal/book-bhandar-with-error) from [mir-hussain/book-bhandar-with-error](https://github.com/mir-hussain/book-bhandar-with-error)
-2. 🔱 Forked [kmrajibfaysal/miujik-error](https://github.com/kmrajibfaysal/miujik-error) from [mir-hussain/miujik-error](https://github.com/mir-hussain/miujik-error)
-3. 🔱 Forked [kmrajibfaysal/ranga-store](https://github.com/kmrajibfaysal/ranga-store) from [ProgrammingHero1/ranga-store](https://github.com/ProgrammingHero1/ranga-store)
-4. 🔱 Forked [kmrajibfaysal/issue-tracker](https://github.com/kmrajibfaysal/issue-tracker) from [ProgrammingHero1/issue-tracker](https://github.com/ProgrammingHero1/issue-tracker)
-5. 📔 Created new repository [kmrajibfaysal/javascript-concept-recap](https://github.com/kmrajibfaysal/javascript-concept-recap)
+1. 🔱 Forked [kmrajibfaysal/miujik-corner](https://github.com/kmrajibfaysal/miujik-corner) from [mir-hussain/miujik-corner](https://github.com/mir-hussain/miujik-corner)
+2. 🔱 Forked [kmrajibfaysal/book-bhandar-with-error](https://github.com/kmrajibfaysal/book-bhandar-with-error) from [mir-hussain/book-bhandar-with-error](https://github.com/mir-hussain/book-bhandar-with-error)
+3. 🔱 Forked [kmrajibfaysal/miujik-error](https://github.com/kmrajibfaysal/miujik-error) from [mir-hussain/miujik-error](https://github.com/mir-hussain/miujik-error)
+4. 🔱 Forked [kmrajibfaysal/ranga-store](https://github.com/kmrajibfaysal/ranga-store) from [ProgrammingHero1/ranga-store](https://github.com/ProgrammingHero1/ranga-store)
+5. 🔱 Forked [kmrajibfaysal/issue-tracker](https://github.com/kmrajibfaysal/issue-tracker) from [ProgrammingHero1/issue-tracker](https://github.com/ProgrammingHero1/issue-tracker)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
