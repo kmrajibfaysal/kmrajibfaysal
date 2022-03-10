@@ -13,7 +13,7 @@
 - ✨ I love to create different types of **projects with excellent functionality**.<br/>
   </td>
 <td >
-    <a href="https://app.daily.dev/kmrajibfaysal"><img src="https://api.daily.dev/devcards/07f66b31519d4217ae192289cbdab363.png?r=9ok" width="300" alt="K. M. Rajib Faysal's Dev Card"/></a>
+    <a href="https://app.daily.dev/kmrajibfaysal"><img src="https://api.daily.dev/devcards/07f66b31519d4217ae192289cbdab363.png?r=2ab" width="400" alt="K. M. Rajib Faysal's Dev Card"/></a>
   </td>
 
 </tr>
