@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [kmrajibfaysal/miujik-corner](https://github.com/kmrajibfaysal/miujik-corner) from [mir-hussain/miujik-corner](https://github.com/mir-hussain/miujik-corner)
-2. 🔱 Forked [kmrajibfaysal/book-bhandar-with-error](https://github.com/kmrajibfaysal/book-bhandar-with-error) from [mir-hussain/book-bhandar-with-error](https://github.com/mir-hussain/book-bhandar-with-error)
-3. 🔱 Forked [kmrajibfaysal/miujik-error](https://github.com/kmrajibfaysal/miujik-error) from [mir-hussain/miujik-error](https://github.com/mir-hussain/miujik-error)
-4. 🔱 Forked [kmrajibfaysal/ranga-store](https://github.com/kmrajibfaysal/ranga-store) from [ProgrammingHero1/ranga-store](https://github.com/ProgrammingHero1/ranga-store)
-5. 🔱 Forked [kmrajibfaysal/issue-tracker](https://github.com/kmrajibfaysal/issue-tracker) from [ProgrammingHero1/issue-tracker](https://github.com/ProgrammingHero1/issue-tracker)
+1. 🔱 Forked [kmrajibfaysal/bangla-programming-resources](https://github.com/kmrajibfaysal/bangla-programming-resources) from [me-shaon/bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
+2. 🔱 Forked [kmrajibfaysal/miujik-corner](https://github.com/kmrajibfaysal/miujik-corner) from [mir-hussain/miujik-corner](https://github.com/mir-hussain/miujik-corner)
+3. 🔱 Forked [kmrajibfaysal/book-bhandar-with-error](https://github.com/kmrajibfaysal/book-bhandar-with-error) from [mir-hussain/book-bhandar-with-error](https://github.com/mir-hussain/book-bhandar-with-error)
+4. 🔱 Forked [kmrajibfaysal/miujik-error](https://github.com/kmrajibfaysal/miujik-error) from [mir-hussain/miujik-error](https://github.com/mir-hussain/miujik-error)
+5. 🔱 Forked [kmrajibfaysal/ranga-store](https://github.com/kmrajibfaysal/ranga-store) from [ProgrammingHero1/ranga-store](https://github.com/ProgrammingHero1/ranga-store)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
