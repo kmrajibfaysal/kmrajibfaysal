@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/my-slider-practice](https://github.com/kmrajibfaysal/my-slider-practice)
-2. 📂 Forked [kmrajibfaysal/bangla-programming-resources](https://github.com/kmrajibfaysal/bangla-programming-resources) from [me-shaon/bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
-3. 📂 Forked [kmrajibfaysal/miujik-corner](https://github.com/kmrajibfaysal/miujik-corner) from [mir-hussain/miujik-corner](https://github.com/mir-hussain/miujik-corner)
-4. 📂 Forked [kmrajibfaysal/book-bhandar-with-error](https://github.com/kmrajibfaysal/book-bhandar-with-error) from [mir-hussain/book-bhandar-with-error](https://github.com/mir-hussain/book-bhandar-with-error)
-5. 📂 Forked [kmrajibfaysal/miujik-error](https://github.com/kmrajibfaysal/miujik-error) from [mir-hussain/miujik-error](https://github.com/mir-hussain/miujik-error)
+1. ⭐ Starred [progmamun/js-debug](https://github.com/progmamun/js-debug)
+2. ⭐ Starred [ProgrammingHero1/insta-shohor](https://github.com/ProgrammingHero1/insta-shohor)
+3. ⭐ Starred [redowan-sajeeb/insta-ShoHor](https://github.com/redowan-sajeeb/insta-ShoHor)
+4. 📔 Created new repository [kmrajibfaysal/my-slider-practice](https://github.com/kmrajibfaysal/my-slider-practice)
+5. 📂 Forked [kmrajibfaysal/bangla-programming-resources](https://github.com/kmrajibfaysal/bangla-programming-resources) from [me-shaon/bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
