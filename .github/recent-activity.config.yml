@@ -20,7 +20,7 @@ messages:
   pr_closed: "❌ Closed PR {ID} in {REPO}"
   pr_merged: "🎉 Merged PR {ID} in {REPO}"
   create_repo: "📔 Created new repository {REPO}"
-  fork_repo: "🔱 Forked {FORK} from {REPO}"
+  fork_repo: "📂 Forked {FORK} from {REPO}"
   wiki_create: "📖 Created new wiki page {WIKI} in {REPO}"
   added_member: "🤝 Became collaborator on {REPO}"
   changes_approved: "👍 Approved {ID} in {REPO}"
