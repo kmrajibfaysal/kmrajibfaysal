@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [progmamun/js-debug](https://github.com/progmamun/js-debug)
-2. ⭐ Starred [ProgrammingHero1/insta-shohor](https://github.com/ProgrammingHero1/insta-shohor)
-3. ⭐ Starred [redowan-sajeeb/insta-ShoHor](https://github.com/redowan-sajeeb/insta-ShoHor)
-4. 📔 Created new repository [kmrajibfaysal/my-slider-practice](https://github.com/kmrajibfaysal/my-slider-practice)
-5. 📂 Forked [kmrajibfaysal/bangla-programming-resources](https://github.com/kmrajibfaysal/bangla-programming-resources) from [me-shaon/bangla-programming-resources](https://github.com/me-shaon/bangla-programming-resources)
+1. 📂 Forked [kmrajibfaysal/jaavscript-revision-practice](https://github.com/kmrajibfaysal/jaavscript-revision-practice) from [gias-uddin-swe/jaavscript-revision-practice](https://github.com/gias-uddin-swe/jaavscript-revision-practice)
+2. ⭐ Starred [asadulR/asadul-landingPage101](https://github.com/asadulR/asadul-landingPage101)
+3. 📂 Forked [kmrajibfaysal/asadul-landingPage101](https://github.com/kmrajibfaysal/asadul-landingPage101) from [asadulR/asadul-landingPage101](https://github.com/asadulR/asadul-landingPage101)
+4. ⭐ Starred [progmamun/js-debug](https://github.com/progmamun/js-debug)
+5. ⭐ Starred [ProgrammingHero1/insta-shohor](https://github.com/ProgrammingHero1/insta-shohor)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
