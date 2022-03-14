@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📂 Forked [kmrajibfaysal/jaavscript-revision-practice](https://github.com/kmrajibfaysal/jaavscript-revision-practice) from [gias-uddin-swe/jaavscript-revision-practice](https://github.com/gias-uddin-swe/jaavscript-revision-practice)
-2. ⭐ Starred [asadulR/asadul-landingPage101](https://github.com/asadulR/asadul-landingPage101)
-3. 📂 Forked [kmrajibfaysal/asadul-landingPage101](https://github.com/kmrajibfaysal/asadul-landingPage101) from [asadulR/asadul-landingPage101](https://github.com/asadulR/asadul-landingPage101)
-4. ⭐ Starred [progmamun/js-debug](https://github.com/progmamun/js-debug)
-5. ⭐ Starred [ProgrammingHero1/insta-shohor](https://github.com/ProgrammingHero1/insta-shohor)
+1. 📔 Created new repository [kmrajibfaysal/react-web-dev-practice](https://github.com/kmrajibfaysal/react-web-dev-practice)
+2. 📂 Forked [kmrajibfaysal/jaavscript-revision-practice](https://github.com/kmrajibfaysal/jaavscript-revision-practice) from [gias-uddin-swe/jaavscript-revision-practice](https://github.com/gias-uddin-swe/jaavscript-revision-practice)
+3. ⭐ Starred [asadulR/asadul-landingPage101](https://github.com/asadulR/asadul-landingPage101)
+4. 📂 Forked [kmrajibfaysal/asadul-landingPage101](https://github.com/kmrajibfaysal/asadul-landingPage101) from [asadulR/asadul-landingPage101](https://github.com/asadulR/asadul-landingPage101)
+5. ⭐ Starred [progmamun/js-debug](https://github.com/progmamun/js-debug)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
