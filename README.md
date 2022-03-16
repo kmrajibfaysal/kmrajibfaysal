@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/react-rest-countries](https://github.com/kmrajibfaysal/react-rest-countries)
-2. 📔 Created new repository [kmrajibfaysal/react-web-dev-practice](https://github.com/kmrajibfaysal/react-web-dev-practice)
-3. 📂 Forked [kmrajibfaysal/jaavscript-revision-practice](https://github.com/kmrajibfaysal/jaavscript-revision-practice) from [gias-uddin-swe/jaavscript-revision-practice](https://github.com/gias-uddin-swe/jaavscript-revision-practice)
-4. ⭐ Starred [asadulR/asadul-landingPage101](https://github.com/asadulR/asadul-landingPage101)
-5. 📂 Forked [kmrajibfaysal/asadul-landingPage101](https://github.com/kmrajibfaysal/asadul-landingPage101) from [asadulR/asadul-landingPage101](https://github.com/asadulR/asadul-landingPage101)
+1. 💪 Opened PR [#3](https://github.com/siddharthInterviewbit/youtube-react-clone/pull/3) in [siddharthInterviewbit/youtube-react-clone](https://github.com/siddharthInterviewbit/youtube-react-clone)
+2. 💪 Opened PR [#2](https://github.com/siddharthInterviewbit/youtube-react-clone/pull/2) in [siddharthInterviewbit/youtube-react-clone](https://github.com/siddharthInterviewbit/youtube-react-clone)
+3. 📂 Forked [kmrajibfaysal/youtube-react-clone](https://github.com/kmrajibfaysal/youtube-react-clone) from [siddharthInterviewbit/youtube-react-clone](https://github.com/siddharthInterviewbit/youtube-react-clone)
+4. 📔 Created new repository [kmrajibfaysal/react-rest-countries](https://github.com/kmrajibfaysal/react-rest-countries)
+5. 📔 Created new repository [kmrajibfaysal/react-web-dev-practice](https://github.com/kmrajibfaysal/react-web-dev-practice)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
