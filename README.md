@@ -19,9 +19,9 @@
 </tr>
 </table>
 
-### Open Source Gallery :dizzy: 
+<!-- ### Open Source Gallery :dizzy: 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kmrajibfaysal&theme=dracula&hide_border=true)
-
+ -->
 ### :dizzy: Connect on Networks
 
 <div align="center">
@@ -60,7 +60,7 @@
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
-![GitHub metrics](https://metrics.lecoq.io/Kmrajbfaysal)  
+![GitHub metrics](https://metrics.lecoq.io/kmrajbfaysal)  
 
 
 <!--START_SECTION:waka-->
