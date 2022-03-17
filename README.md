@@ -60,7 +60,8 @@
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
-#1
+![GitHub metrics](https://metrics.lecoq.io/Kmrajbfaysal)  
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
