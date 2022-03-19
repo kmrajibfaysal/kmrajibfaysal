@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📂 Forked [kmrajibfaysal/react-complete-guide-code](https://github.com/kmrajibfaysal/react-complete-guide-code) from [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
-2. ⭐ Starred [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
-3. 📂 Forked [kmrajibfaysal/RiyaadHossain](https://github.com/kmrajibfaysal/RiyaadHossain) from [RiyaadHossain/RiyaadHossain](https://github.com/RiyaadHossain/RiyaadHossain)
-4. 📔 Created new repository [kmrajibfaysal/test](https://github.com/kmrajibfaysal/test)
-5. 💪 Opened PR [#3](https://github.com/siddharthInterviewbit/youtube-react-clone/pull/3) in [siddharthInterviewbit/youtube-react-clone](https://github.com/siddharthInterviewbit/youtube-react-clone)
+1. ⭐ Starred [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
+2. 📂 Forked [kmrajibfaysal/react-complete-guide-code](https://github.com/kmrajibfaysal/react-complete-guide-code) from [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
+3. ⭐ Starred [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
+4. 📂 Forked [kmrajibfaysal/RiyaadHossain](https://github.com/kmrajibfaysal/RiyaadHossain) from [RiyaadHossain/RiyaadHossain](https://github.com/RiyaadHossain/RiyaadHossain)
+5. 📔 Created new repository [kmrajibfaysal/test](https://github.com/kmrajibfaysal/test)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
