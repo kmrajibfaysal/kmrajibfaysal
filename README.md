@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
-2. ⭐ Starred [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
-3. 📂 Forked [kmrajibfaysal/react-complete-guide-code](https://github.com/kmrajibfaysal/react-complete-guide-code) from [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
-4. ⭐ Starred [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
-5. 📂 Forked [kmrajibfaysal/RiyaadHossain](https://github.com/kmrajibfaysal/RiyaadHossain) from [RiyaadHossain/RiyaadHossain](https://github.com/RiyaadHossain/RiyaadHossain)
+1. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/liacra-clothing-/pull/1) in [kmrajibfaysal/liacra-clothing-](https://github.com/kmrajibfaysal/liacra-clothing-)
+2. 📔 Created new repository [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+3. ⭐ Starred [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
+4. 📂 Forked [kmrajibfaysal/react-complete-guide-code](https://github.com/kmrajibfaysal/react-complete-guide-code) from [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
+5. ⭐ Starred [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
