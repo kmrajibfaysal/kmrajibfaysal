@@ -52,11 +52,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/liacra-clothing-/pull/1) in [kmrajibfaysal/liacra-clothing-](https://github.com/kmrajibfaysal/liacra-clothing-)
-2. 📔 Created new repository [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
-3. ⭐ Starred [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
-4. 📂 Forked [kmrajibfaysal/react-complete-guide-code](https://github.com/kmrajibfaysal/react-complete-guide-code) from [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
-5. ⭐ Starred [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
+1. 📂 Forked [kmrajibfaysal/kopa-samsu-practice](https://github.com/kmrajibfaysal/kopa-samsu-practice) from [mir-hussain/kopa-samsu-practice](https://github.com/mir-hussain/kopa-samsu-practice)
+2. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/liacra-clothing-/pull/1) in [kmrajibfaysal/liacra-clothing-](https://github.com/kmrajibfaysal/liacra-clothing-)
+3. 📔 Created new repository [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+4. ⭐ Starred [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)
+5. 📂 Forked [kmrajibfaysal/react-complete-guide-code](https://github.com/kmrajibfaysal/react-complete-guide-code) from [academind/react-complete-guide-code](https://github.com/academind/react-complete-guide-code)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
