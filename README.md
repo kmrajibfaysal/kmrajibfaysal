@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📂 Forked [kmrajibfaysal/tailwind-eshop-static-html](https://github.com/kmrajibfaysal/tailwind-eshop-static-html) from [itzpradip/tailwind-eshop-static-html](https://github.com/itzpradip/tailwind-eshop-static-html)
-2. ⭐ Starred [remix-run/react-router](https://github.com/remix-run/react-router)
-3. 📂 Forked [kmrajibfaysal/kopa-samsu-practice](https://github.com/kmrajibfaysal/kopa-samsu-practice) from [mir-hussain/kopa-samsu-practice](https://github.com/mir-hussain/kopa-samsu-practice)
-4. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/liacra-clothing-/pull/1) in [kmrajibfaysal/liacra-clothing-](https://github.com/kmrajibfaysal/liacra-clothing-)
-5. 📔 Created new repository [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+1. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+2. 💪 Opened PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+3. 📂 Forked [kmrajibfaysal/tailwind-eshop-static-html](https://github.com/kmrajibfaysal/tailwind-eshop-static-html) from [itzpradip/tailwind-eshop-static-html](https://github.com/itzpradip/tailwind-eshop-static-html)
+4. ⭐ Starred [remix-run/react-router](https://github.com/remix-run/react-router)
+5. 📂 Forked [kmrajibfaysal/kopa-samsu-practice](https://github.com/kmrajibfaysal/kopa-samsu-practice) from [mir-hussain/kopa-samsu-practice](https://github.com/mir-hussain/kopa-samsu-practice)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
