@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
-2. 💪 Opened PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
-3. 📂 Forked [kmrajibfaysal/tailwind-eshop-static-html](https://github.com/kmrajibfaysal/tailwind-eshop-static-html) from [itzpradip/tailwind-eshop-static-html](https://github.com/itzpradip/tailwind-eshop-static-html)
-4. ⭐ Starred [remix-run/react-router](https://github.com/remix-run/react-router)
-5. 📂 Forked [kmrajibfaysal/kopa-samsu-practice](https://github.com/kmrajibfaysal/kopa-samsu-practice) from [mir-hussain/kopa-samsu-practice](https://github.com/mir-hussain/kopa-samsu-practice)
+1. 📔 Created new repository [kmrajibfaysal/craftisia-shop](https://github.com/kmrajibfaysal/craftisia-shop)
+2. 📔 Created new repository [kmrajibfaysal/react-template-materialUi](https://github.com/kmrajibfaysal/react-template-materialUi)
+3. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+4. 💪 Opened PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+5. 📂 Forked [kmrajibfaysal/tailwind-eshop-static-html](https://github.com/kmrajibfaysal/tailwind-eshop-static-html) from [itzpradip/tailwind-eshop-static-html](https://github.com/itzpradip/tailwind-eshop-static-html)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
