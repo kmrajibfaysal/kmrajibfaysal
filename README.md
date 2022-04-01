@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/craftisia-shop](https://github.com/kmrajibfaysal/craftisia-shop)
-2. 📔 Created new repository [kmrajibfaysal/react-template-materialUi](https://github.com/kmrajibfaysal/react-template-materialUi)
-3. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
-4. 💪 Opened PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
-5. 📂 Forked [kmrajibfaysal/tailwind-eshop-static-html](https://github.com/kmrajibfaysal/tailwind-eshop-static-html) from [itzpradip/tailwind-eshop-static-html](https://github.com/itzpradip/tailwind-eshop-static-html)
+1. ⭐ Starred [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer)
+2. 📔 Created new repository [kmrajibfaysal/craftisia-shop](https://github.com/kmrajibfaysal/craftisia-shop)
+3. 📔 Created new repository [kmrajibfaysal/react-template-materialUi](https://github.com/kmrajibfaysal/react-template-materialUi)
+4. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+5. 💪 Opened PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
