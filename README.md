@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-2. ⭐ Starred [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer)
-3. 📔 Created new repository [kmrajibfaysal/craftisia-shop](https://github.com/kmrajibfaysal/craftisia-shop)
-4. 📔 Created new repository [kmrajibfaysal/react-template-materialUi](https://github.com/kmrajibfaysal/react-template-materialUi)
-5. 🎉 Merged PR [#1](https://github.com/kmrajibfaysal/amazon-simple/pull/1) in [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+1. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+2. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+3. ⭐ Starred [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer)
+4. 📔 Created new repository [kmrajibfaysal/craftisia-shop](https://github.com/kmrajibfaysal/craftisia-shop)
+5. 📔 Created new repository [kmrajibfaysal/react-template-materialUi](https://github.com/kmrajibfaysal/react-template-materialUi)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
