@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📂 Forked [kmrajibfaysal/bulletproof-react](https://github.com/kmrajibfaysal/bulletproof-react) from [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
-2. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
-3. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
-4. ⭐ Starred [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer)
-5. 📔 Created new repository [kmrajibfaysal/craftisia-shop](https://github.com/kmrajibfaysal/craftisia-shop)
+1. ⭐ Starred [progmamun/react-blog-site](https://github.com/progmamun/react-blog-site)
+2. 📂 Forked [kmrajibfaysal/bulletproof-react](https://github.com/kmrajibfaysal/bulletproof-react) from [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+3. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+4. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+5. ⭐ Starred [DoableDanny/NextJS-HarperDB-Task-Timer](https://github.com/DoableDanny/NextJS-HarperDB-Task-Timer)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
