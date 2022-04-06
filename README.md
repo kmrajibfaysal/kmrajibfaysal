@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📂 Forked [kmrajibfaysal/progmamun](https://github.com/kmrajibfaysal/progmamun) from [progmamun/progmamun](https://github.com/progmamun/progmamun)
-2. ⭐ Starred [progmamun/react-blog-site](https://github.com/progmamun/react-blog-site)
-3. 📂 Forked [kmrajibfaysal/bulletproof-react](https://github.com/kmrajibfaysal/bulletproof-react) from [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
-4. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
-5. ⭐ Starred [dailydotdev/daily](https://github.com/dailydotdev/daily)
+1. ⭐ Starred [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+2. 📂 Forked [kmrajibfaysal/progmamun](https://github.com/kmrajibfaysal/progmamun) from [progmamun/progmamun](https://github.com/progmamun/progmamun)
+3. ⭐ Starred [progmamun/react-blog-site](https://github.com/progmamun/react-blog-site)
+4. 📂 Forked [kmrajibfaysal/bulletproof-react](https://github.com/kmrajibfaysal/bulletproof-react) from [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+5. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
