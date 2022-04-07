@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
-2. 📂 Forked [kmrajibfaysal/progmamun](https://github.com/kmrajibfaysal/progmamun) from [progmamun/progmamun](https://github.com/progmamun/progmamun)
-3. ⭐ Starred [progmamun/react-blog-site](https://github.com/progmamun/react-blog-site)
-4. 📂 Forked [kmrajibfaysal/bulletproof-react](https://github.com/kmrajibfaysal/bulletproof-react) from [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
-5. ⭐ Starred [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react)
+1. 📔 Created new repository [kmrajibfaysal/daily-expense-list](https://github.com/kmrajibfaysal/daily-expense-list)
+2. 📔 Created new repository [kmrajibfaysal/daily-expense-list](https://github.com/kmrajibfaysal/daily-expense-list)
+3. ⭐ Starred [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+4. 📂 Forked [kmrajibfaysal/progmamun](https://github.com/kmrajibfaysal/progmamun) from [progmamun/progmamun](https://github.com/progmamun/progmamun)
+5. ⭐ Starred [progmamun/react-blog-site](https://github.com/progmamun/react-blog-site)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
