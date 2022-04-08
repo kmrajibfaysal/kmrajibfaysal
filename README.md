@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/router-firebase-integration](https://github.com/kmrajibfaysal/router-firebase-integration)
-2. 📔 Created new repository [kmrajibfaysal/daily-expense-list](https://github.com/kmrajibfaysal/daily-expense-list)
+1. ⭐ Starred [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
+2. 📔 Created new repository [kmrajibfaysal/router-firebase-integration](https://github.com/kmrajibfaysal/router-firebase-integration)
 3. 📔 Created new repository [kmrajibfaysal/daily-expense-list](https://github.com/kmrajibfaysal/daily-expense-list)
-4. ⭐ Starred [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
-5. 📂 Forked [kmrajibfaysal/progmamun](https://github.com/kmrajibfaysal/progmamun) from [progmamun/progmamun](https://github.com/progmamun/progmamun)
+4. 📔 Created new repository [kmrajibfaysal/daily-expense-list](https://github.com/kmrajibfaysal/daily-expense-list)
+5. ⭐ Starred [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
