@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/car-services](https://github.com/kmrajibfaysal/car-services)
-2. 📂 Forked [kmrajibfaysal/ema-john-simple-with-auth-module-59](https://github.com/kmrajibfaysal/ema-john-simple-with-auth-module-59) from [ProgrammingHero1/ema-john-simple-with-auth-module-59](https://github.com/ProgrammingHero1/ema-john-simple-with-auth-module-59)
-3. ⭐ Starred [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
-4. 📔 Created new repository [kmrajibfaysal/router-firebase-integration](https://github.com/kmrajibfaysal/router-firebase-integration)
-5. 📔 Created new repository [kmrajibfaysal/daily-expense-list](https://github.com/kmrajibfaysal/daily-expense-list)
+1. ⭐ Starred [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism)
+2. 📔 Created new repository [kmrajibfaysal/car-services](https://github.com/kmrajibfaysal/car-services)
+3. 📂 Forked [kmrajibfaysal/ema-john-simple-with-auth-module-59](https://github.com/kmrajibfaysal/ema-john-simple-with-auth-module-59) from [ProgrammingHero1/ema-john-simple-with-auth-module-59](https://github.com/ProgrammingHero1/ema-john-simple-with-auth-module-59)
+4. ⭐ Starred [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
+5. 📔 Created new repository [kmrajibfaysal/router-firebase-integration](https://github.com/kmrajibfaysal/router-firebase-integration)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
