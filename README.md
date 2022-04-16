@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
-2. ⭐ Starred [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism)
-3. 📔 Created new repository [kmrajibfaysal/car-services](https://github.com/kmrajibfaysal/car-services)
-4. 📂 Forked [kmrajibfaysal/ema-john-simple-with-auth-module-59](https://github.com/kmrajibfaysal/ema-john-simple-with-auth-module-59) from [ProgrammingHero1/ema-john-simple-with-auth-module-59](https://github.com/ProgrammingHero1/ema-john-simple-with-auth-module-59)
-5. ⭐ Starred [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
+1. 📂 Forked [kmrajibfaysal/independent-service-provider-website](https://github.com/kmrajibfaysal/independent-service-provider-website) from [ProgrammingHero1/independent-service-provider-website](https://github.com/ProgrammingHero1/independent-service-provider-website)
+2. ⭐ Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
+3. ⭐ Starred [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism)
+4. 📔 Created new repository [kmrajibfaysal/car-services](https://github.com/kmrajibfaysal/car-services)
+5. 📂 Forked [kmrajibfaysal/ema-john-simple-with-auth-module-59](https://github.com/kmrajibfaysal/ema-john-simple-with-auth-module-59) from [ProgrammingHero1/ema-john-simple-with-auth-module-59](https://github.com/ProgrammingHero1/ema-john-simple-with-auth-module-59)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
