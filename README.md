@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📂 Forked [kmrajibfaysal/wordle-clone](https://github.com/kmrajibfaysal/wordle-clone) from [WebDevSimplified/wordle-clone](https://github.com/WebDevSimplified/wordle-clone)
-2. 📂 Forked [kmrajibfaysal/Agency-website](https://github.com/kmrajibfaysal/Agency-website) from [muhib160/Agency-website](https://github.com/muhib160/Agency-website)
-3. 📂 Forked [kmrajibfaysal/independent-service-provider-website](https://github.com/kmrajibfaysal/independent-service-provider-website) from [ProgrammingHero1/independent-service-provider-website](https://github.com/ProgrammingHero1/independent-service-provider-website)
-4. ⭐ Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
-5. ⭐ Starred [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism)
+1. 📔 Created new repository [kmrajibfaysal/react-with-node-express](https://github.com/kmrajibfaysal/react-with-node-express)
+2. 📂 Forked [kmrajibfaysal/wordle-clone](https://github.com/kmrajibfaysal/wordle-clone) from [WebDevSimplified/wordle-clone](https://github.com/WebDevSimplified/wordle-clone)
+3. 📂 Forked [kmrajibfaysal/Agency-website](https://github.com/kmrajibfaysal/Agency-website) from [muhib160/Agency-website](https://github.com/muhib160/Agency-website)
+4. 📂 Forked [kmrajibfaysal/independent-service-provider-website](https://github.com/kmrajibfaysal/independent-service-provider-website) from [ProgrammingHero1/independent-service-provider-website](https://github.com/ProgrammingHero1/independent-service-provider-website)
+5. ⭐ Starred [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
