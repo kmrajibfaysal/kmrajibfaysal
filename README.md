@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📂 Forked [kmrajibfaysal/genius-car-service-map-module-63-5](https://github.com/kmrajibfaysal/genius-car-service-map-module-63-5) from [ProgrammingHero1/genius-car-service-map-module-63-5](https://github.com/ProgrammingHero1/genius-car-service-map-module-63-5)
-2. 📔 Created new repository [kmrajibfaysal/node-mongo-crud](https://github.com/kmrajibfaysal/node-mongo-crud)
-3. 📔 Created new repository [kmrajibfaysal/node-express-practice](https://github.com/kmrajibfaysal/node-express-practice)
-4. 📔 Created new repository [kmrajibfaysal/react-with-node-express](https://github.com/kmrajibfaysal/react-with-node-express)
-5. 📂 Forked [kmrajibfaysal/wordle-clone](https://github.com/kmrajibfaysal/wordle-clone) from [WebDevSimplified/wordle-clone](https://github.com/WebDevSimplified/wordle-clone)
+1. 📂 Forked [kmrajibfaysal/genius-car-service-client-jwt-module-68](https://github.com/kmrajibfaysal/genius-car-service-client-jwt-module-68) from [ProgrammingHero1/genius-car-service-client-jwt-module-68](https://github.com/ProgrammingHero1/genius-car-service-client-jwt-module-68)
+2. 📂 Forked [kmrajibfaysal/genius-car-service-server-jwt-module-68](https://github.com/kmrajibfaysal/genius-car-service-server-jwt-module-68) from [ProgrammingHero1/genius-car-service-server-jwt-module-68](https://github.com/ProgrammingHero1/genius-car-service-server-jwt-module-68)
+3. 📂 Forked [kmrajibfaysal/genius-car-service-map-module-63-5](https://github.com/kmrajibfaysal/genius-car-service-map-module-63-5) from [ProgrammingHero1/genius-car-service-map-module-63-5](https://github.com/ProgrammingHero1/genius-car-service-map-module-63-5)
+4. 📔 Created new repository [kmrajibfaysal/node-mongo-crud](https://github.com/kmrajibfaysal/node-mongo-crud)
+5. 📔 Created new repository [kmrajibfaysal/node-express-practice](https://github.com/kmrajibfaysal/node-express-practice)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
