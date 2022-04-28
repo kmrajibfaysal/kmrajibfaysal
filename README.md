@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/amazon-simple-server](https://github.com/kmrajibfaysal/amazon-simple-server)
-2. 📂 Forked [kmrajibfaysal/genius-car-service-client-jwt-module-68](https://github.com/kmrajibfaysal/genius-car-service-client-jwt-module-68) from [ProgrammingHero1/genius-car-service-client-jwt-module-68](https://github.com/ProgrammingHero1/genius-car-service-client-jwt-module-68)
-3. 📂 Forked [kmrajibfaysal/genius-car-service-server-jwt-module-68](https://github.com/kmrajibfaysal/genius-car-service-server-jwt-module-68) from [ProgrammingHero1/genius-car-service-server-jwt-module-68](https://github.com/ProgrammingHero1/genius-car-service-server-jwt-module-68)
-4. 📂 Forked [kmrajibfaysal/genius-car-service-map-module-63-5](https://github.com/kmrajibfaysal/genius-car-service-map-module-63-5) from [ProgrammingHero1/genius-car-service-map-module-63-5](https://github.com/ProgrammingHero1/genius-car-service-map-module-63-5)
-5. 📔 Created new repository [kmrajibfaysal/node-mongo-crud](https://github.com/kmrajibfaysal/node-mongo-crud)
+1. ⭐ Starred [dev-nazmulislam/react-short-note](https://github.com/dev-nazmulislam/react-short-note)
+2. ⭐ Starred [ProgrammingHero1/warehouse-management-website](https://github.com/ProgrammingHero1/warehouse-management-website)
+3. ⭐ Starred [trickjsprogram/full-stack-mern](https://github.com/trickjsprogram/full-stack-mern)
+4. 📔 Created new repository [kmrajibfaysal/amazon-simple-server](https://github.com/kmrajibfaysal/amazon-simple-server)
+5. 📂 Forked [kmrajibfaysal/genius-car-service-client-jwt-module-68](https://github.com/kmrajibfaysal/genius-car-service-client-jwt-module-68) from [ProgrammingHero1/genius-car-service-client-jwt-module-68](https://github.com/ProgrammingHero1/genius-car-service-client-jwt-module-68)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
