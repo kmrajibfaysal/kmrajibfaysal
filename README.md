@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📂 Forked [kmrajibfaysal/Landing-Page](https://github.com/kmrajibfaysal/Landing-Page) from [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page)
-2. ⭐ Starred [dev-nazmulislam/react-short-note](https://github.com/dev-nazmulislam/react-short-note)
-3. ⭐ Starred [ProgrammingHero1/warehouse-management-website](https://github.com/ProgrammingHero1/warehouse-management-website)
-4. ⭐ Starred [trickjsprogram/full-stack-mern](https://github.com/trickjsprogram/full-stack-mern)
-5. 📔 Created new repository [kmrajibfaysal/amazon-simple-server](https://github.com/kmrajibfaysal/amazon-simple-server)
+1. ⭐ Starred [tishraq28/Gradiesh](https://github.com/tishraq28/Gradiesh)
+2. 📂 Forked [kmrajibfaysal/Landing-Page](https://github.com/kmrajibfaysal/Landing-Page) from [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page)
+3. ⭐ Starred [dev-nazmulislam/react-short-note](https://github.com/dev-nazmulislam/react-short-note)
+4. ⭐ Starred [ProgrammingHero1/warehouse-management-website](https://github.com/ProgrammingHero1/warehouse-management-website)
+5. ⭐ Starred [trickjsprogram/full-stack-mern](https://github.com/trickjsprogram/full-stack-mern)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
