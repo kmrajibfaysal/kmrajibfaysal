@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/styling-component](https://github.com/kmrajibfaysal/styling-component)
-2. 📂 Forked [kmrajibfaysal/doctors-portal](https://github.com/kmrajibfaysal/doctors-portal) from [ProgrammingHero1/doctors-portal](https://github.com/ProgrammingHero1/doctors-portal)
-3. ⭐ Starred [tishraq28/Gradiesh](https://github.com/tishraq28/Gradiesh)
-4. 📂 Forked [kmrajibfaysal/Landing-Page](https://github.com/kmrajibfaysal/Landing-Page) from [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page)
-5. ⭐ Starred [dev-nazmulislam/react-short-note](https://github.com/dev-nazmulislam/react-short-note)
+1. 📔 Created new repository [kmrajibfaysal/academind-assignment](https://github.com/kmrajibfaysal/academind-assignment)
+2. 📔 Created new repository [kmrajibfaysal/styling-component](https://github.com/kmrajibfaysal/styling-component)
+3. 📂 Forked [kmrajibfaysal/doctors-portal](https://github.com/kmrajibfaysal/doctors-portal) from [ProgrammingHero1/doctors-portal](https://github.com/ProgrammingHero1/doctors-portal)
+4. ⭐ Starred [tishraq28/Gradiesh](https://github.com/tishraq28/Gradiesh)
+5. 📂 Forked [kmrajibfaysal/Landing-Page](https://github.com/kmrajibfaysal/Landing-Page) from [tailwindtoolbox/Landing-Page](https://github.com/tailwindtoolbox/Landing-Page)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
