@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/sideEffects_Reducer_context_practice](https://github.com/kmrajibfaysal/sideEffects_Reducer_context_practice)
-2. 📔 Created new repository [kmrajibfaysal/academind-assignment](https://github.com/kmrajibfaysal/academind-assignment)
-3. 📔 Created new repository [kmrajibfaysal/styling-component](https://github.com/kmrajibfaysal/styling-component)
-4. 📂 Forked [kmrajibfaysal/doctors-portal](https://github.com/kmrajibfaysal/doctors-portal) from [ProgrammingHero1/doctors-portal](https://github.com/ProgrammingHero1/doctors-portal)
-5. ⭐ Starred [tishraq28/Gradiesh](https://github.com/tishraq28/Gradiesh)
+1. 📔 Created new repository [kmrajibfaysal/doctors-portal-client-km](https://github.com/kmrajibfaysal/doctors-portal-client-km)
+2. 📔 Created new repository [kmrajibfaysal/sideEffects_Reducer_context_practice](https://github.com/kmrajibfaysal/sideEffects_Reducer_context_practice)
+3. 📔 Created new repository [kmrajibfaysal/academind-assignment](https://github.com/kmrajibfaysal/academind-assignment)
+4. 📔 Created new repository [kmrajibfaysal/styling-component](https://github.com/kmrajibfaysal/styling-component)
+5. 📂 Forked [kmrajibfaysal/doctors-portal](https://github.com/kmrajibfaysal/doctors-portal) from [ProgrammingHero1/doctors-portal](https://github.com/ProgrammingHero1/doctors-portal)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
