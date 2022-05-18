@@ -53,11 +53,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/khan188993/English-Learing-Online/issues/1) in [khan188993/English-Learing-Online](https://github.com/khan188993/English-Learing-Online)
-2. 📔 Created new repository [kmrajibfaysal/doctors-portal-server-km](https://github.com/kmrajibfaysal/doctors-portal-server-km)
-3. 📔 Created new repository [kmrajibfaysal/doctors-portal-client-km](https://github.com/kmrajibfaysal/doctors-portal-client-km)
-4. 📔 Created new repository [kmrajibfaysal/sideEffects_Reducer_context_practice](https://github.com/kmrajibfaysal/sideEffects_Reducer_context_practice)
-5. 📔 Created new repository [kmrajibfaysal/academind-assignment](https://github.com/kmrajibfaysal/academind-assignment)
+1. 📔 Created new repository [kmrajibfaysal/rest-task-manager](https://github.com/kmrajibfaysal/rest-task-manager)
+2. 📔 Created new repository [kmrajibfaysal/rest-todo-react](https://github.com/kmrajibfaysal/rest-todo-react)
+3. ❗️ Opened issue [#1](https://github.com/khan188993/English-Learing-Online/issues/1) in [khan188993/English-Learing-Online](https://github.com/khan188993/English-Learing-Online)
+4. 📔 Created new repository [kmrajibfaysal/doctors-portal-server-km](https://github.com/kmrajibfaysal/doctors-portal-server-km)
+5. 📔 Created new repository [kmrajibfaysal/doctors-portal-client-km](https://github.com/kmrajibfaysal/doctors-portal-client-km)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
