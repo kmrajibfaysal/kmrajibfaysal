@@ -54,11 +54,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/rest-task-manager-server](https://github.com/kmrajibfaysal/rest-task-manager-server)
-2. 📔 Created new repository [kmrajibfaysal/rest-task-manager](https://github.com/kmrajibfaysal/rest-task-manager)
-3. 📔 Created new repository [kmrajibfaysal/rest-todo-react](https://github.com/kmrajibfaysal/rest-todo-react)
-4. ❗️ Opened issue [#1](https://github.com/khan188993/English-Learing-Online/issues/1) in [khan188993/English-Learing-Online](https://github.com/khan188993/English-Learing-Online)
-5. 📔 Created new repository [kmrajibfaysal/doctors-portal-server-km](https://github.com/kmrajibfaysal/doctors-portal-server-km)
+1. ⭐ Starred [ProgrammingHero1/Manufacturer-website-assignment](https://github.com/ProgrammingHero1/Manufacturer-website-assignment)
+2. 📔 Created new repository [kmrajibfaysal/rest-task-manager-server](https://github.com/kmrajibfaysal/rest-task-manager-server)
+3. 📔 Created new repository [kmrajibfaysal/rest-task-manager](https://github.com/kmrajibfaysal/rest-task-manager)
+4. 📔 Created new repository [kmrajibfaysal/rest-todo-react](https://github.com/kmrajibfaysal/rest-todo-react)
+5. ❗️ Opened issue [#1](https://github.com/khan188993/English-Learing-Online/issues/1) in [khan188993/English-Learing-Online](https://github.com/khan188993/English-Learing-Online)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
