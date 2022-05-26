@@ -54,11 +54,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [kmrajibfaysal/carpenco-server](https://github.com/kmrajibfaysal/carpenco-server)
-2. 📔 Created new repository [kmrajibfaysal/carpenco-km](https://github.com/kmrajibfaysal/carpenco-km)
-3. ⭐ Starred [ProgrammingHero1/Manufacturer-website-assignment](https://github.com/ProgrammingHero1/Manufacturer-website-assignment)
-4. 📔 Created new repository [kmrajibfaysal/rest-task-manager-server](https://github.com/kmrajibfaysal/rest-task-manager-server)
-5. 📔 Created new repository [kmrajibfaysal/rest-task-manager](https://github.com/kmrajibfaysal/rest-task-manager)
+1. ⭐ Starred [martinet101/ElevenClock](https://github.com/martinet101/ElevenClock)
+2. 📔 Created new repository [kmrajibfaysal/carpenco-server](https://github.com/kmrajibfaysal/carpenco-server)
+3. 📔 Created new repository [kmrajibfaysal/carpenco-km](https://github.com/kmrajibfaysal/carpenco-km)
+4. ⭐ Starred [ProgrammingHero1/Manufacturer-website-assignment](https://github.com/ProgrammingHero1/Manufacturer-website-assignment)
+5. 📔 Created new repository [kmrajibfaysal/rest-task-manager-server](https://github.com/kmrajibfaysal/rest-task-manager-server)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
