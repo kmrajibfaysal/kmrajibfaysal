@@ -54,11 +54,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [devsonket/devsonket.github.io](https://github.com/devsonket/devsonket.github.io)
-2. ⭐ Starred [martinet101/ElevenClock](https://github.com/martinet101/ElevenClock)
-3. 📔 Created new repository [kmrajibfaysal/carpenco-server](https://github.com/kmrajibfaysal/carpenco-server)
-4. 📔 Created new repository [kmrajibfaysal/carpenco-km](https://github.com/kmrajibfaysal/carpenco-km)
-5. ⭐ Starred [ProgrammingHero1/Manufacturer-website-assignment](https://github.com/ProgrammingHero1/Manufacturer-website-assignment)
+1. 📂 Forked [kmrajibfaysal/react-portfolio](https://github.com/kmrajibfaysal/react-portfolio) from [shloksomani/react-portfolio](https://github.com/shloksomani/react-portfolio)
+2. ⭐ Starred [shloksomani/react-portfolio](https://github.com/shloksomani/react-portfolio)
+3. 📔 Created new repository [kmrajibfaysal/demo-project-task](https://github.com/kmrajibfaysal/demo-project-task)
+4. ⭐ Starred [devsonket/devsonket.github.io](https://github.com/devsonket/devsonket.github.io)
+5. ⭐ Starred [martinet101/ElevenClock](https://github.com/martinet101/ElevenClock)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
