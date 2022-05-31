@@ -54,11 +54,11 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📂 Forked [kmrajibfaysal/react-portfolio](https://github.com/kmrajibfaysal/react-portfolio) from [shloksomani/react-portfolio](https://github.com/shloksomani/react-portfolio)
-2. ⭐ Starred [shloksomani/react-portfolio](https://github.com/shloksomani/react-portfolio)
-3. 📔 Created new repository [kmrajibfaysal/demo-project-task](https://github.com/kmrajibfaysal/demo-project-task)
-4. ⭐ Starred [devsonket/devsonket.github.io](https://github.com/devsonket/devsonket.github.io)
-5. ⭐ Starred [martinet101/ElevenClock](https://github.com/martinet101/ElevenClock)
+1. 📔 Created new repository [kmrajibfaysal/india-furniture-Ltd](https://github.com/kmrajibfaysal/india-furniture-Ltd)
+2. 📔 Created new repository [kmrajibfaysal/india-furniture-Ltd](https://github.com/kmrajibfaysal/india-furniture-Ltd)
+3. 📂 Forked [kmrajibfaysal/react-portfolio](https://github.com/kmrajibfaysal/react-portfolio) from [shloksomani/react-portfolio](https://github.com/shloksomani/react-portfolio)
+4. ⭐ Starred [shloksomani/react-portfolio](https://github.com/shloksomani/react-portfolio)
+5. 📔 Created new repository [kmrajibfaysal/demo-project-task](https://github.com/kmrajibfaysal/demo-project-task)
 <!--RECENT_ACTIVITY:end-->
 
 📊 **This week i spent my time on:**
