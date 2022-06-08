@@ -54,9 +54,9 @@
 
 ### :zap: Recent GitHub Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch)
-2. ⬆️ Pushed 1 commit(s) to [kmrajibfaysal/carpenco-km](https://github.com/kmrajibfaysal/carpenco-km)
-3. ⬆️ Pushed 1 commit(s) to [kmrajibfaysal/india-furniture-Ltd](https://github.com/kmrajibfaysal/india-furniture-Ltd)
+1. ⬆️ Pushed 1 commit(s) to [kmrajibfaysal/amazon-simple](https://github.com/kmrajibfaysal/amazon-simple)
+2. ⭐ Starred [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch)
+3. ⬆️ Pushed 1 commit(s) to [kmrajibfaysal/carpenco-km](https://github.com/kmrajibfaysal/carpenco-km)
 4. ⬆️ Pushed 1 commit(s) to [kmrajibfaysal/india-furniture-Ltd](https://github.com/kmrajibfaysal/india-furniture-Ltd)
 5. ⬆️ Pushed 1 commit(s) to [kmrajibfaysal/india-furniture-Ltd](https://github.com/kmrajibfaysal/india-furniture-Ltd)
 <!--RECENT_ACTIVITY:end-->
